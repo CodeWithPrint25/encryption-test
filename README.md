@@ -1,6 +1,6 @@
 # 🔒 Voldemort.py — My File Locking Project
 
-Hi! I’m 10 years old and I made this so I can learn how to lock and unlock files with Python. It’s just for fun and learning — not for being mean or hacking!
+Hi! My Name is Seth and I'm 10 years old and I made this so I can learn how to lock and unlock files with Python. It’s just for fun and learning — not for being mean or hacking!
 
 ---
 
